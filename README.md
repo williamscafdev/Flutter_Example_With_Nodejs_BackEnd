@@ -1,8 +1,8 @@
 # Flutter_Example_With_Nodejs_BackEnd
 
-- Ejemplo base de estructura GetX con Getx_Pattern 
+- Structure base example GetX con Getx_Pattern 
 
-- Ejemplo base de estructura Cubit con Clean_Arquitecture
+- Structure base example Cubit con Clean_Arquitecture
 
 ## Getting Started
 
