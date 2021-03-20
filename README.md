@@ -4,7 +4,27 @@
 
 - Structure base example Flutter_Bloc - Cubit con Clean_Arquitecture
 
-- Structure base example Flutter_Riverpod con Clean_Arquitecture
+- Structure base example Flutter_Riverpod with Clean_Arquitecture
+
+- Structure base example SetState Nativo with Clean_Arquitecture
+
+# Aditional Complements
+
+- Dio Class global.
+
+- Constans Colors.
+
+- Navigator_utils.
+
+- Class Routes.
+
+- Google Fonts integrate with License Register.
+
+- Dependencies with Cubit.
+
+- Providers with Riverpod.
+
+- Shared_Preferences.
 
 ## Getting Started
 

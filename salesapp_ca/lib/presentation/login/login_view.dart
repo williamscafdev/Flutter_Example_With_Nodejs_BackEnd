@@ -38,7 +38,7 @@ class LoginView extends StatelessWidget {
                   context, 'Información', 'Error de usuario y/o contraseña.');
               break;
             case LoginState.existing_user:
-              pushAndReplaceToPage(context, HomeView());
+              popAllAndPush(context, HomeView());
               break;
             case LoginState.typing:
               showDialogMessage(context, 'Información',
