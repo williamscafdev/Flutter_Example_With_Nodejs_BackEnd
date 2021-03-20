@@ -9,9 +9,9 @@
 - Structure base example SetState Nativo with Clean_Arquitecture
 
 <div class="row">
-  <img src="assets/Splash.png" width="120" and height="170">
-  <img src="assets/Login.png" width="120" and height="170">
-  <img src="assets/Home.png" width="120" and height="170">
+  <img src="assets/Splash.png" width="140" and height="200">
+  <img src="assets/Login.png" width="140" and height="200">
+  <img src="assets/Home.png" width="140" and height="200">
 </div>
 
 # Aditional Complements
