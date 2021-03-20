@@ -8,6 +8,10 @@
 
 - Structure base example SetState Nativo with Clean_Arquitecture
 
+![](assets/Splash.png)
+![](assets/Login.png)
+![](assets/Home.png)
+
 # Aditional Complements
 
 - Dio Class global.
