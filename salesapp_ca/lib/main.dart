@@ -10,6 +10,7 @@ void main() {
     final license = await rootBundle.loadString('assets/fonts/OFL.txt');
     yield LicenseEntryWithLineBreaks(['google_fonts'], license);
   });
+
   runApp(MyApp());
 }
 
