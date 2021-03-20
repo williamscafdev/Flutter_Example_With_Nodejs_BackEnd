@@ -7,9 +7,9 @@
 - Structure base example Flutter_Riverpod with Clean_Arquitecture
 
 - Structure base example SetState Nativo with Clean_Arquitecture
-<img src="assets/Splash.png" width="40" and height="100">
-<img src="assets/Login.png" width="40" and height="100">
-<img src="assets/Home.png" width="40" and height="100">
+<img src="assets/Splash.png" width="100" and height="170">
+<img src="assets/Login.png" width="100" and height="170">
+<img src="assets/Home.png" width="100" and height="170">
 
 # Aditional Complements
 
